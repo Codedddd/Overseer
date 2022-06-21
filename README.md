@@ -77,7 +77,7 @@ PERSONAL INFORMATION:
   - Get Previous Family members
   - Get Friends
   - Get Previous homes
-  - Get Any acconts
+  - Get Any accounts
 ```
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -69,12 +69,37 @@ LOCATION:
   
 PERSONAL INFORMATION:
 
-  - Full name
-  - Phone #
-  - Work / school
-  - Previous school / work places
-  - Family members
-  - Previous Family members
-  - Friends
-  - Previous homes
-  - 
+  - Get Full name
+  - Get Phone #
+  - Get Work / school
+  - Get Previous school / work places
+  - Get Family members
+  - Get Previous Family members
+  - Get Friends
+  - Get Previous homes
+  - Get Any acconts
+```
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Our upcoming features;
+
+```
+UPCOMING FEATURES:
+
+  - Get bank details
+  - Track by face
+  - Quantum computer cracking
+  - ALL passwords, tokens etc
+  - Autmomatic reverse engineering
+  - Metadata tracer
+  - Messaging
+  - DDoS target
+  - Backround search (criminal records etc)
+```
+
+# Contact me;
+
+[- Discord](https://dsc.gg/ariesbycoded)
+
+[- Instagram](https://i_live_ina_box)

@@ -102,4 +102,6 @@ UPCOMING FEATURES:
 
 [- Discord](https://dsc.gg/ariesbycoded)
 
-[- Instagram](https://i_live_ina_box)
+[- Instagram](https://www.instagram.com/i_live_ina_box/)
+
+[- My Website *Coming soon!*](https://#)

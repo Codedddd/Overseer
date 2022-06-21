@@ -13,7 +13,7 @@ Overseer is a powerful OSINT tool available to be used for a large array of plat
 - Youtube
 - Reddit
 - Whatsapp
-- Messanger
+- Messenger
 - Pintrest
 - Tiktok
 - Myspace
